@@ -4,4 +4,6 @@ Centro Universitario de Ciencias Exactas e Ingenierias CUCEI
 
 **Profesor: Michel Emanuel Lopez Franco**
 
-Gutiérrez Galán Ruben Alejandro / 214798315/nholamundo
+Gutiérrez Galán Ruben Alejandro / 214798315
+
+* * Herramientas para el manejo de errores * *
