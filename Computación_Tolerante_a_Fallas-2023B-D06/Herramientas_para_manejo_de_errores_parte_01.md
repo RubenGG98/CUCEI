@@ -6,4 +6,4 @@ Centro Universitario de Ciencias Exactas e Ingenierias CUCEI
 
 Gutiérrez Galán Ruben Alejandro / 214798315
 
-* * Herramientas para el manejo de errores * *
+_Herramientas para el manejo de errores_
