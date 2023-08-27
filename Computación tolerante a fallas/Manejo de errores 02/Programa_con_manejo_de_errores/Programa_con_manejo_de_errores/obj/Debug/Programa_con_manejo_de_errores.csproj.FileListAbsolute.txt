@@ -1,0 +1,5 @@
+D:\Programacion\Classroom\Computacion Tolerante a fallas\Computación tolerante a fallas\Manejo de errores 02\Programa_con_manejo_de_errores\Programa_con_manejo_de_errores\obj\Debug\Programa_con_manejo_de_errores.csprojResolveAssemblyReference.cache
+D:\Programacion\Classroom\Computacion Tolerante a fallas\Computación tolerante a fallas\Manejo de errores 02\Programa_con_manejo_de_errores\Programa_con_manejo_de_errores\bin\Debug\Programa_con_manejo_de_errores.exe
+D:\Programacion\Classroom\Computacion Tolerante a fallas\Computación tolerante a fallas\Manejo de errores 02\Programa_con_manejo_de_errores\Programa_con_manejo_de_errores\bin\Debug\Programa_con_manejo_de_errores.pdb
+D:\Programacion\Classroom\Computacion Tolerante a fallas\Computación tolerante a fallas\Manejo de errores 02\Programa_con_manejo_de_errores\Programa_con_manejo_de_errores\obj\Debug\Programa_con_manejo_de_errores.exe
+D:\Programacion\Classroom\Computacion Tolerante a fallas\Computación tolerante a fallas\Manejo de errores 02\Programa_con_manejo_de_errores\Programa_con_manejo_de_errores\obj\Debug\Programa_con_manejo_de_errores.pdb
