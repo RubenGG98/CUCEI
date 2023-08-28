@@ -18,6 +18,7 @@ namespace Programa_con_manejo_de_errores
 	    public MiExcepcionPersonalizada(string mensaje) : base(mensaje)
 	    {
 	        // Constructor para tu excepción personalizada
+	        Console.WriteLine(mensaje);
 	    }
 	}
 
