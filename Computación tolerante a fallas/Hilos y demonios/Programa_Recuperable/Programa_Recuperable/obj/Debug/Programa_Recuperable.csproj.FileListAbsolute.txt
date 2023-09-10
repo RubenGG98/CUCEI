@@ -1,0 +1,14 @@
+D:\Programacion\Classroom\Computacion Tolerante a fallas\Programa con save\Programa_Recuperable\Programa_Recuperable\obj\Debug\Programa_Recuperable.csprojResolveAssemblyReference.cache
+D:\Programacion\Classroom\Computacion Tolerante a fallas\Programa con save\Programa_Recuperable\Programa_Recuperable\obj\Debug\Programa_Recuperable.csproj.GenerateResource.Cache
+D:\Programacion\Classroom\Computacion Tolerante a fallas\Programa con save\Programa_Recuperable\Programa_Recuperable\bin\Debug\Programa_Recuperable.exe
+D:\Programacion\Classroom\Computacion Tolerante a fallas\Programa con save\Programa_Recuperable\Programa_Recuperable\bin\Debug\Programa_Recuperable.pdb
+D:\Programacion\Classroom\Computacion Tolerante a fallas\Programa con save\Programa_Recuperable\Programa_Recuperable\obj\Debug\Programa_Recuperable.exe
+D:\Programacion\Classroom\Computacion Tolerante a fallas\Programa con save\Programa_Recuperable\Programa_Recuperable\obj\Debug\Programa_Recuperable.pdb
+D:\Programacion\Classroom\Computacion Tolerante a fallas\Programa con save\Programa_Recuperable\Programa_Recuperable\obj\Debug\Programa_Recuperable.Alumno.resources
+D:\Programacion\Classroom\Computacion Tolerante a fallas\Programa capaz de recuperar su estado de ejecucion\Programa_Recuperable\Programa_Recuperable\bin\Debug\Programa_Recuperable.exe
+D:\Programacion\Classroom\Computacion Tolerante a fallas\Programa capaz de recuperar su estado de ejecucion\Programa_Recuperable\Programa_Recuperable\bin\Debug\Programa_Recuperable.pdb
+D:\Programacion\Classroom\Computacion Tolerante a fallas\Programa capaz de recuperar su estado de ejecucion\Programa_Recuperable\Programa_Recuperable\obj\Debug\Programa_Recuperable.csprojResolveAssemblyReference.cache
+D:\Programacion\Classroom\Computacion Tolerante a fallas\Programa capaz de recuperar su estado de ejecucion\Programa_Recuperable\Programa_Recuperable\obj\Debug\Programa_Recuperable.csproj.GenerateResource.Cache
+D:\Programacion\Classroom\Computacion Tolerante a fallas\Programa capaz de recuperar su estado de ejecucion\Programa_Recuperable\Programa_Recuperable\obj\Debug\Programa_Recuperable.exe
+D:\Programacion\Classroom\Computacion Tolerante a fallas\Programa capaz de recuperar su estado de ejecucion\Programa_Recuperable\Programa_Recuperable\obj\Debug\Programa_Recuperable.pdb
+D:\Programacion\Classroom\Computacion Tolerante a fallas\Programa capaz de recuperar su estado de ejecucion\Programa_Recuperable\Programa_Recuperable\obj\Debug\Programa_Recuperable.MainForm.resources
