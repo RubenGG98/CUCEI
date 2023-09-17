@@ -1,0 +1,9 @@
+D:\Programacion\Classroom\Computacion_Tolerante_a_fallas\Servicio_monitoreo\Servicio_respaldo\bin\Debug\Servicio_respaldo.exe.config
+D:\Programacion\Classroom\Computacion_Tolerante_a_fallas\Servicio_monitoreo\Servicio_respaldo\bin\Debug\Servicio_respaldo.exe
+D:\Programacion\Classroom\Computacion_Tolerante_a_fallas\Servicio_monitoreo\Servicio_respaldo\bin\Debug\Servicio_respaldo.pdb
+D:\Programacion\Classroom\Computacion_Tolerante_a_fallas\Servicio_monitoreo\Servicio_respaldo\obj\Debug\Servicio_respaldo.csproj.AssemblyReference.cache
+D:\Programacion\Classroom\Computacion_Tolerante_a_fallas\Servicio_monitoreo\Servicio_respaldo\obj\Debug\Servicio_respaldo.ProjectInstaller.resources
+D:\Programacion\Classroom\Computacion_Tolerante_a_fallas\Servicio_monitoreo\Servicio_respaldo\obj\Debug\Servicio_respaldo.csproj.GenerateResource.cache
+D:\Programacion\Classroom\Computacion_Tolerante_a_fallas\Servicio_monitoreo\Servicio_respaldo\obj\Debug\Servicio_respaldo.csproj.CoreCompileInputs.cache
+D:\Programacion\Classroom\Computacion_Tolerante_a_fallas\Servicio_monitoreo\Servicio_respaldo\obj\Debug\Servicio_respaldo.exe
+D:\Programacion\Classroom\Computacion_Tolerante_a_fallas\Servicio_monitoreo\Servicio_respaldo\obj\Debug\Servicio_respaldo.pdb
